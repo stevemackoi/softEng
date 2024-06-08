@@ -1,1 +1,1 @@
-Python practice/fundamentals 
+Python fun(damentals)
