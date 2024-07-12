@@ -1,1 +1,1 @@
-Python fun(damentals)
+Python/SQL fun(damentals)
